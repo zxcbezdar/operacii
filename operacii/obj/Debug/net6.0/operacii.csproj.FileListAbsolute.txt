@@ -1,0 +1,15 @@
+C:\Users\Макс\source\repos\operacii\operacii\bin\Debug\net6.0\operacii.exe
+C:\Users\Макс\source\repos\operacii\operacii\bin\Debug\net6.0\operacii.deps.json
+C:\Users\Макс\source\repos\operacii\operacii\bin\Debug\net6.0\operacii.runtimeconfig.json
+C:\Users\Макс\source\repos\operacii\operacii\bin\Debug\net6.0\operacii.dll
+C:\Users\Макс\source\repos\operacii\operacii\bin\Debug\net6.0\operacii.pdb
+C:\Users\Макс\source\repos\operacii\operacii\obj\Debug\net6.0\operacii.csproj.AssemblyReference.cache
+C:\Users\Макс\source\repos\operacii\operacii\obj\Debug\net6.0\operacii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Макс\source\repos\operacii\operacii\obj\Debug\net6.0\operacii.AssemblyInfoInputs.cache
+C:\Users\Макс\source\repos\operacii\operacii\obj\Debug\net6.0\operacii.AssemblyInfo.cs
+C:\Users\Макс\source\repos\operacii\operacii\obj\Debug\net6.0\operacii.csproj.CoreCompileInputs.cache
+C:\Users\Макс\source\repos\operacii\operacii\obj\Debug\net6.0\operacii.dll
+C:\Users\Макс\source\repos\operacii\operacii\obj\Debug\net6.0\refint\operacii.dll
+C:\Users\Макс\source\repos\operacii\operacii\obj\Debug\net6.0\operacii.pdb
+C:\Users\Макс\source\repos\operacii\operacii\obj\Debug\net6.0\operacii.genruntimeconfig.cache
+C:\Users\Макс\source\repos\operacii\operacii\obj\Debug\net6.0\ref\operacii.dll
